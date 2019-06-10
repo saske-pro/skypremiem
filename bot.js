@@ -31,7 +31,7 @@ const prefix = "$";
 
 client.on('ready', () => {
 
-    client.user.setActivity("$help | Premium Beta V.0.2",{type: 'Streaming'})
+    client.user.setActivity("$help | Horror Death",{type: 'Streaming'})
 
 });
 
